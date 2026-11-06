@@ -1,0 +1,21 @@
+
+Distributed Image Processing System
+
+
+
+Test 1: Grayscale
+
+Sequential and parallel processing times are recorded using benchmark.py.
+
+
+
+Test 2: Blur
+
+To be tested.
+
+
+
+Test 3: Edge Detection
+
+To be tested.
+
